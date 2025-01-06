@@ -8,7 +8,7 @@
     "email": "lain@e-s.team"
   },
   "dependencies": {
-    "team.e-s.unity.addins.custom-inspector": "https://github.com/e-s-unity/team.e-s.unity.addins.custom-inspector.git",
-    "team.e-s.unity.addins.hierarchy-icons": "https://github.com/e-s-unity/team.e-s.unity.addins.hierarchy-icons.git",
+    "team.e-s.unity.addins.custom-inspector": "1.0.0",
+    "team.e-s.unity.addins.hierarchy-icons": "1.0.0",
   }
 }
