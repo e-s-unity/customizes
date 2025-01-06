@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "team.e-s.unity.addins.custom-inspector": "1.0.0",
-    "team.e-s.unity.addins.hierarchy-icons": "1.0.0",
+    "team.e-s.unity.addins.hierarchy-icons": "1.0.0"
   }
 }
