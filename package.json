@@ -1,0 +1,10 @@
+{
+  "name": "com.yourcompany.yourfeatureset",
+  "displayName": "Customize Inspector",
+  "version": "1.0.0",
+  "type": "feature",
+  "dependencies": {
+    "team.e-s.unity.addins.custom-inspector": "https://github.com/e-s-unity/team.e-s.unity.addins.custom-inspector.git",
+    "team.e-s.unity.addins.hierarchy-icons": "https://github.com/e-s-unity/team.e-s.unity.addins.hierarchy-icons.git",
+  }
+}
